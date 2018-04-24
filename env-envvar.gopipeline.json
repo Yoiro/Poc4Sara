@@ -1,0 +1,12 @@
+{
+  "environment_variables": [
+    {
+      "name": "key1",
+      "value": "value1"
+    },
+    {
+      "name": "key2",
+      "value": "value2"
+    }
+  ]
+}
